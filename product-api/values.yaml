@@ -1,6 +1,6 @@
 # Bản vẽ lõi cho ArgoCD đọc
 image:
   repository: ghcr.io/dainghia800/product-management1
-  tag: "e0eeac2c1619f30ef2840c7c2a108b97b47dc3d3" 
+  tag: "c9259cd3afe121e087bf97c1eb0e6db617891bee"
 
 replicaCount: 3
